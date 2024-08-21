@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Sridhar
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python and aptitude
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me on mail(sridharpanneerselvam2310@gmail.com
+- 📫 How to reach me on mail(sridharpanneerselvam2310@gmail.com)
 - 😄 Pronouns: he/him
 
 <!---
